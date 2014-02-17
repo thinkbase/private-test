@@ -1,0 +1,3 @@
+[submodule "test/sub/libgif-js"]
+	path = test/sub/libgif-js
+	url = https://github.com/thinkbase/libgif-js.git
